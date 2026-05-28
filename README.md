@@ -13,7 +13,6 @@ The dashboard helps understand:
 ## Tools Used
 - Power BI
 - Excel
-- SQL (if used)
 
 ## Dataset
 The dataset contains:
